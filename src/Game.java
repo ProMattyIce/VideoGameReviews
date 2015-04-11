@@ -4,8 +4,6 @@ import com.mashape.unirest.http.Unirest;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.util.Iterator;
-// foo
 
 public class Game {
     private String title;
@@ -35,7 +33,8 @@ public class Game {
             {
                 JSONObject e = jsonarray.getJSONObject(i);
 
-                if(e.getString("title").toUpperCase().replaceAll(" ", "").equals(title.toUpperCase().replaceAll(" ",""))) {
+                if(e.getString("title").toUpperCase().replaceAll(" ", "").equals(title.toUpperCase().replaceAll(" ","")) || jsonarray.length() ==1)
+                {
                     System.out.println(e.get("platforms").toString().substring(e.get("platforms").toString().indexOf("{\"1\":\"") + "{\"1\":\"".length(), e.get("platforms").toString().length() - 2).replace(",", "").replace(":", "").replace("\"", " ").replace(" 3 ", "").replace("2", "").replace("4", "").replace("5", "").trim().replaceAll("\\s+", " "));
                     break;
                 }
