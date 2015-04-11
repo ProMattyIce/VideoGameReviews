@@ -53,6 +53,7 @@ public class MetaMindResults
             assert resultCode == 0;
         } catch (Throwable cause) {
             // process cause
+            System.out.println(cause);
         }
 
         try
@@ -73,7 +74,7 @@ public class MetaMindResults
             }
         }catch (Exception e)
         {
-
+            System.out.println(e);
         }
     }
 }

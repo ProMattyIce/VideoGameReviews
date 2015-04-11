@@ -16,10 +16,9 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="commons-codec-1.9" level="project" />
-    <orderEntry type="library" name="commons-io-2.4-javadoc" level="project" />
-    <orderEntry type="library" name="jsoup-1.8.1" level="project" />
-    <orderEntry type="library" name="unirest-java-1.4.5" level="project" />
     <orderEntry type="library" name="com.mashape.unirest:unirest-java:1.4.5" level="project" />
+    <orderEntry type="library" name="commons-io-2.4-javadoc" level="project" />
+    <orderEntry type="library" name="commons-codec-1.9" level="project" />
+    <orderEntry type="library" name="jsoup-1.8.1" level="project" />
   </component>
 </module>

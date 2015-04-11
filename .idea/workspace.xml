@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37c84f8f-84b0-4971-916d-f2c63d408333" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Mike\OneDrive\bitcamp\VideoGameReviews\.idea\libraries\unirest_java_1_4_5.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/API.iml" afterPath="$PROJECT_DIR$/API.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MetaMindResults.java" afterPath="$PROJECT_DIR$/src/MetaMindResults.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_9.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/commons_io_2_4_javadoc.xml" afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_4_javadoc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/jsoup_1_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/jsoup_1_8_1.xml" />
+    </list>
+    <ignored path="API.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="API" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MetaMindResults.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MetaMindResults.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.0476191">
+              <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/MetaMindResults.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="API" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="API" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VideoGameReviews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="API" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VideoGameReviews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="API" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VideoGameReviews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Main.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/Archive.zip</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/NOTICE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/RELEASE-NOTES.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/commons-io-2.4-javadoc.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/commons-io-2.4-sources.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/commons-io-2.4-test-sources.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/commons-io-2.4-tests.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/commons-io-2.4.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/allclasses-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/allclasses-noframe.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/constant-values.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/deprecated-list.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/help-doc.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/index-all.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/ByteOrderMark.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/Charsets.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/CopyUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.CancelException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/EndianUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/FileCleaner.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/FileCleaningTracker.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/FileDeleteStrategy.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/FileExistsException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/FileSystemUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/FileUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/FilenameUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/HexDump.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/IOCase.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/IOExceptionWithCause.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/IOUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/LineIterator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/TaggedIOException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/ByteOrderMark.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/Charsets.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/CopyUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.CancelException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/EndianUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaner.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaningTracker.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/FileDeleteStrategy.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/FileExistsException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/FileSystemUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/FileUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/FilenameUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/HexDump.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/IOCase.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/IOExceptionWithCause.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/IOUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/LineIterator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/class-use/TaggedIOException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/CompositeFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/DefaultFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/DirectoryFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/ExtensionFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/LastModifiedFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/NameFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/PathFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/SizeFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/CompositeFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/DefaultFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/DirectoryFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/ExtensionFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/LastModifiedFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/NameFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/PathFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/class-use/SizeFileComparator.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/comparator/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/AbstractFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/AgeFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/AndFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/CanReadFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/CanWriteFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/ConditionalFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/DelegateFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/DirectoryFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/EmptyFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/FalseFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFilterUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/HiddenFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/IOFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/MagicNumberFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/NameFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/NotFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/OrFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/PrefixFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/RegexFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/SizeFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/SuffixFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/TrueFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AbstractFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AgeFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/AndFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/CanReadFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/CanWriteFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/ConditionalFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/DelegateFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/DirectoryFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/EmptyFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FalseFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FileFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/FileFilterUtils.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/HiddenFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/IOFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/MagicNumberFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/NameFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/NotFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/OrFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/PrefixFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/RegexFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/SizeFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/SuffixFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/TrueFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/WildcardFileFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/class-use/WildcardFilter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/filefilter/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/AutoCloseInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/BOMInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/BoundedInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/BrokenInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceReader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/ClassLoaderObjectInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/CloseShieldInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/ClosedInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/CountingInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/DemuxInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/NullInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/NullReader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/ProxyInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/ProxyReader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/ReaderInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/ReversedLinesFileReader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/SwappedDataInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/TaggedInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/Tailer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/TailerListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/TailerListenerAdapter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/TeeInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReaderException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/AutoCloseInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BOMInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BoundedInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/BrokenInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CharSequenceInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CharSequenceReader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ClassLoaderObjectInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CloseShieldInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ClosedInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/CountingInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/DemuxInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/NullInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/NullReader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ProxyInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ProxyReader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ReaderInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/ReversedLinesFileReader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/SwappedDataInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TaggedInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/Tailer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TailerListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TailerListenerAdapter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/TeeInputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/XmlStreamReader.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/class-use/XmlStreamReaderException.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/input/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationListenerAdaptor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationMonitor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/FileAlterationObserver.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/FileEntry.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationListener.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationListenerAdaptor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationMonitor.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileAlterationObserver.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/class-use/FileEntry.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/monitor/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/BrokenOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/ByteArrayOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/CloseShieldOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/ClosedOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/CountingOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/DeferredFileOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/DemuxOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/FileWriterWithEncoding.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/LockableFileWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/NullOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/NullWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/ProxyOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/ProxyWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/StringBuilderWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/TaggedOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/TeeOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/ThresholdingOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/WriterOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/XmlStreamWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/BrokenOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ByteArrayOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/CloseShieldOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ClosedOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/CountingOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/DeferredFileOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/DemuxOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/FileWriterWithEncoding.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/LockableFileWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/NullOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/NullWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ProxyOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ProxyWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/StringBuilderWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/TaggedOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/TeeOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/ThresholdingOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/WriterOutputStream.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/class-use/XmlStreamWriter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/output/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/package-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/package-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/package-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/org/apache/commons/io/package-use.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/overview-frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/overview-summary.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/overview-tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/package-list</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/resources/inherit.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/serialized-form.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/commons-io-2.4/docs/stylesheet.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/NOTICE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/README.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/RELEASE_NOTES.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/client/fluent/FluentAsync.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/client/fluent/FluentExecutor.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/client/fluent/FluentQuickStart.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/client/fluent/FluentRequests.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/client/fluent/FluentResponseHandling.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientAbortMethod.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientAuthentication.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientChunkEncodedPost.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientConfiguration.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientConnectionRelease.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientCustomContext.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientCustomPublicSuffixList.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientCustomSSL.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientEvictExpiredConnections.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientExecuteProxy.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientExecuteSOCKS.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientFormLogin.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientMultiThreadedExecution.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientPreemptiveBasicAuthentication.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientPreemptiveDigestAuthentication.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientProxyAuthentication.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientWithRequestFuture.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ClientWithResponseHandler.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/ProxyTunnelDemo.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/QuickStart.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/client/win/ClientWinAuth.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/examples/org/apache/http/examples/entity/mime/ClientMultipartFormPost.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/lib/commons-codec-1.9.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/lib/commons-logging-1.2.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/lib/fluent-hc-4.4.1.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/lib/httpclient-4.4.1.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/lib/httpclient-cache-4.4.1.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/lib/httpclient-win-4.4.1.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/lib/httpcore-4.4.1.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/lib/httpmime-4.4.1.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/lib/jna-4.1.0.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/lib/jna-platform-4.1.0.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/tutorial/html/advanced.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/tutorial/html/authentication.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/tutorial/html/caching.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/tutorial/html/connmgmt.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/tutorial/html/css/hc-tutorial.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/tutorial/html/fluent.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/tutorial/html/fundamentals.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/tutorial/html/images/asf_logo_wide.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/tutorial/html/images/hc_logo.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/tutorial/html/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/tutorial/html/preface.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/tutorial/html/statemgmt.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Jar/httpcomponents-client-4.4.1 2/tutorial/pdf/httpclient-tutorial.pdf</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="API" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37c84f8f-84b0-4971-916d-f2c63d408333" name="Default" comment="" />
+      <created>1428757027076</created>
+      <option name="number" value="Default" />
+      <updated>1428757027076</updated>
+      <workItem from="1428757025697" duration="143000" />
+      <workItem from="1428757221900" duration="2986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3129000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3008982" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934132" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MetaMindResults.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0476191">
+          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>API</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.mashape.unirest:unirest-java:1.4.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3137931" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

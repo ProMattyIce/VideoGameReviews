@@ -1,7 +1,9 @@
 <component name="libraryTable">
   <library name="jsoup-1.8.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Desktop/jsoup-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar/jsoup-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar/org.json-20120521.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar/unirest-java-1.4.5.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
