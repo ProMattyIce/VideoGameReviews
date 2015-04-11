@@ -1,7 +1,7 @@
 import org.apache.commons.io.IOUtils;
 import org.json.JSONArray;
 import org.json.JSONObject;
-
+//DELETE THIS
 public class MetaMindResults
 {
     private int postive , neutral , negative;
